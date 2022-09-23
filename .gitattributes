@@ -1,0 +1,4 @@
+# https://help.github.com/articles/dealing-with-line-endings/#example
+
+# Always convert line endings to lf thus windows users shouldn't set core.autocrlf.
+* text=lf
