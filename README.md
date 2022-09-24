@@ -1,6 +1,6 @@
 # ant478 Push Notifications
 
-My web service for storing webPush subscriptions and sending notifications.
+My web service for storing Web Push subscriptions and sending notifications.
 
 No public UI available, api is served from https://ant478-push-notifications.herokuapp.com/api.
 
@@ -37,7 +37,7 @@ Removes given endpoint from subscriptions list
 ```
 
 ### POST /notification
-Sends webPush notification to all endpoints with passed receiver, deletes stale notifications from list.
+Sends Web Push notification to all endpoints with passed receiver, deletes stale notifications from list.
 #### Headers
 ```
 {
