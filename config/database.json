@@ -7,11 +7,11 @@
     "password": "admin"
   },
   "production": {
-    "host": "oliadkuxrl9xdugh.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "host": "nuepp3ddzwtnggom.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql",
-    "database": "d3qhlok5x3qifx0v",
-    "username": "e97iuhphkpo8szf8",
-    "password": "ndgnij6f5jmkukmp"
+    "database": "rc8p9vcvi83sxo63",
+    "username": "tko7s27b11rqc7eg",
+    "password": "agy7rbfvn6sugn0d"
   }
 }
