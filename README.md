@@ -2,7 +2,7 @@
 
 My web service for storing Web Push subscriptions and sending notifications.
 
-No public UI available, api is served from https://ant478-push-notifications.herokuapp.com/api.
+No public UI available, api is served from https://ant478-push-notifications-dd605c846b24.herokuapp.com/api.
 
 ## Endpoints
 
